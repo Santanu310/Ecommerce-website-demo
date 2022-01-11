@@ -70,6 +70,7 @@ header {
     padding: 10px;
     color: #757575;
     border: 1px solid #01c0df;
+    border-radius: 5px;
     outline: none;
 }
 
@@ -78,6 +79,7 @@ header {
     height: 40px;
     padding: 10px;
     border: 1px solid #e5e5e5;
+    border-radius: 5px;
     position: relative;
     text-decoration: none;
     color: #fff;
@@ -103,7 +105,7 @@ header {
 }
 
 .navbar ul li:hover {
-    background-color: rgb(173, 195, 197);
+    background-color: rgb(105, 202, 211);
 }
 
 .navbar ul li a {
@@ -148,6 +150,7 @@ main {
 .buy-now {
     border: none;
     outline: none;
+    color: #fff;
     background-color: #009ee5;
     font-weight: bold;
     margin-left: 20px;
@@ -155,6 +158,7 @@ main {
     padding: 10px;
     top: 200px;
     width: 100px;
+    font-weight: bold;
 }
 
 .buy-now:hover {
